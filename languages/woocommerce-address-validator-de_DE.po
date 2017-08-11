@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Adress Validator\n"
+"POT-Creation-Date: 2017-01-28 15:33+0200\n"
+"PO-Revision-Date: 2017-03-29 16:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: /var/www/html/byteplant/wp-content/plugins/woocommerce-"
+"address-validator\n"
+"X-Poedit-SearchPath-0: /var/www/html/byteplant/wp-content/plugins/"
+"woocommerce-address-validator\n"
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:140
+msgid "Address Validator"
+msgstr "Address Validator"
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:153
+msgid "An error occured."
+msgstr "Ein Fehler ist aufgetaucht."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:173
+msgid "Woocommerce Address Validator"
+msgstr "Woocommerce Address Validator"
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:176
+msgid ""
+"It looks like your API key is invalid or depleted. Please check your key and "
+"refresh it."
+msgstr ""
+"Der API Key ist nicht gültig. Bitte den API Key prüfen und aktualisieren."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:177
+#, php-format
+msgid "You can get a new key <a href=\"%s\">here</a>."
+msgstr "<a href=\"%s\">Hier</a> kannst Du einen neuen API Key beantragen."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:186
+msgid "API Key"
+msgstr "API Key"
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:194
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:200
+msgid ""
+"With our USPS address verification and international address validation "
+"service you can easily verify if any national or international postal "
+"address is valid and really exists. Stop wrong shipping or billing addresses "
+"from getting in your Woocommerce customer database."
+msgstr ""
+"Mit unserem Service zur Adressprüfung kann jede Postadresse ganz einfach "
+"validiert werden - dabei wird geprüft, ob die Adresse wirklich existiert und "
+"ob sie zustellbar ist. So ist sichergestellt, dass nur gültige Adressen in "
+"die Woocommerce Kundendatenbank gelangen."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:207
+#, php-format
+msgid ""
+"You can use our Address Online Validation API to check up to 100 addresses "
+"for free - just <a href=\"%1$s\" target=\"_blank\">sign up here for your "
+"free API key</a> or inform yourself <a href=\"%2$s\" target=\"_blank\">about "
+"our low prices</a>."
+msgstr ""
+"Wir bieten einen kostenlosen Test für 100 Adressen - einfach <a href=\"%1$s"
+"\" target=\"_blank\">hier</a> registrieren und einen kostenlosen API Key "
+"holen. Weitere Informationen und eine Übersicht zu unseren günstigen Preisen "
+"gibt es <a href=\"%2$s\" target=\"_blank\">hier</a>."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:231
+msgid "Your address validator API key is invalid or depleted."
+msgstr "Der API Key ist ungültig oder abgelaufen."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/Admin.php:238
+#, php-format
+msgid "Update it <a href=\"%s\">on the settings page</a>."
+msgstr "Aktualisierung <a href=\"%s\">auf der Einstellungsseite</a>."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/WC/WC.php:216
+msgid "We have corrected your address. Please check the address again."
+msgstr ""
+"Wir haben die Adresse korrigiert. Bitte prüfen, ob die Angaben stimmen."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/WC/WC.php:218
+msgid "Please enter a valid address."
+msgstr "Bitte eine gültige Adresse angeben."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/WC/WCAV_WC_Admin.php:29
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/WC/WCAV_WC_Admin.php:55
+msgid "Not checked."
+msgstr "Nicht geprüft."
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/WC/WCAV_WC_Admin.php:75
+msgid "Address status: "
+msgstr "Adress Status:"
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/WC/WCAV_WC_Admin.php:92
+msgid "Validate"
+msgstr "Validieren"
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/WC/WCAV_WC_Admin.php:97
+msgid "API Result"
+msgstr "API Ergebnis"
+
+#: /var/www/html/byteplant/wp-content/plugins/woocommerce-address-validator/src/WC/WCAV_WC_Admin.php:107
+msgid "Sanitized Address:"
+msgstr "Bereinigte Adresse:"
